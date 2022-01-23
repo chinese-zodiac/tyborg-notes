@@ -4,7 +4,7 @@ description: Tyborg Biology excerpted from an Encrypted Consortium
 
 # Tyborg
 
-![Bengal Tyborg](https://cdn.discordapp.com/attachments/927437362701664277/932194776130936892/Bengal\_Tyborg\_Character\_Design\_PNG.png) ![Sibein Tyborg](https://cdn.discordapp.com/attachments/927437362701664277/932194776772640808/Siberian\_Tyborg\_Character\_Design\_PNG.png)
+![Bengal Tyborg](https://cdn.discordapp.com/attachments/927437362701664277/932194776130936892/Bengal\_Tyborg\_Character\_Design\_PNG.png) ![Siberian Tyborg](https://cdn.discordapp.com/attachments/927437362701664277/932194776772640808/Siberian\_Tyborg\_Character\_Design\_PNG.png)
 
 Tyborgs are Humanoid Bionetic Tigers. They are also killing machines.
 

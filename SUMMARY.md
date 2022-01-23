@@ -61,6 +61,7 @@
 * [Meercats](gameplay/meercats/README.md)
   * [Law Enforcement](gameplay/meercats/law-enforcement.md)
   * [Buildings](gameplay/meercats/buildings/README.md)
+    * [Capital Buildings](gameplay/meercats/buildings/capital-buildings.md)
     * [Territory Buildings](gameplay/meercats/buildings/territory-buildings.md)
     * [Provincial Buildings](gameplay/meercats/buildings/provincial-buildings.md)
   * [Land](gameplay/meercats/land.md)
